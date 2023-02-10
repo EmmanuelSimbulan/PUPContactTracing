@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lasto/eclipse-workspace/PUPContactTracing/bridj-0.6.2-windows-only.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lasto/eclipse-workspace/PUPContactTracing/core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lasto/eclipse-workspace/PUPContactTracing/javase-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lasto/eclipse-workspace/PUPContactTracing/jgoodies-forms-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lasto/eclipse-workspace/PUPContactTracing/jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lasto/eclipse-workspace/PUPContactTracing/JTattoo-1.6.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lasto/eclipse-workspace/PUPContactTracing/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lasto/eclipse-workspace/PUPContactTracing/mysql-connector-java-8.0.29.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lasto/eclipse-workspace/PUPContactTracing/slf4j-api-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lasto/eclipse-workspace/PUPContactTracing/slf4j-log4j12-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lasto/eclipse-workspace/PUPContactTracing/webcam-capture-0.3.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lasto/eclipse-workspace/PUPContactTracing/qrgen-1.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
